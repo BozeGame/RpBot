@@ -192,9 +192,9 @@ if(message.content === "rp!shinji"){
     file: "https://cdn.discordapp.com/attachments/443770152777941012/452860496203218944/Ame_Fire_Rogue.jpg"
 }) 
 }
-if(message.content === "rp!dark"){ 
+if(message.content === "rp!malediction"){ 
     message.channel.send("Execution", {
-    file: "https://cdn.discordapp.com/attachments/448162387434930176/452872167713931271/transfo.gif"
+    file: "file:///C:/Activit%C3%A9/boruto_007___momoshiki_by_darkmaza-dap738c.png"
 }) 
 }
 if(message.content.startsWith("rp!debout")){
